@@ -78,7 +78,7 @@ public class ContaJava {
 		
 		
 		System.out.println();
-		System.out.print("Deseja acessa a Conta Poupança (s/n)? ");
+		System.out.print("Deseja acessar a Conta Poupança (s/n)? ");
 		char resp = sc.next().charAt(0);
 		if ( resp == 's') {
 			System.out.println("---------Conta Poupança----------");
